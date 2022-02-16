@@ -1,2 +1,3 @@
 # Proyecto-Blinda-
-Es un proyecto centrado en la I.A para ayudar a la gente ciega
+Es un proyecto que utiliza la inteligencia artificial para ayudar a las personas ciegas o con baja visión.
+
