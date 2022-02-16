@@ -5,7 +5,7 @@ Cabe destacar que BLINDA de momento sólo está disponible en idioma inglés, pe
 
 En esta guía describiremos paso a paso todo lo que debes de hacer para poder recrear BLINDA.
 
-## MATERIALES
+### MATERIALES
 Los materiales utilizados son los siguientes:
 
 - Jetson Nano 2GB o 4GB (En nuestro caso se ha usado la de 2GB)
