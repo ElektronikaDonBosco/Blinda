@@ -4,6 +4,12 @@ Es un proyecto que utiliza la inteligencia artificial para ayudar a las personas
 Cabe destacar que BLINDA de momento sólo está disponible en idioma inglés, pero se espera que en un futuro integre más idiomas.
 
 En esta guía describiremos paso a paso todo lo que debes de hacer para poder recrear BLINDA.
+### Tabla de contenido
+- Materiales
+- Detección de objetos
+- Speak
+- Fuente de alimentación
+- Puesta en marcha
 
 ### MATERIALES
 Los materiales utilizados son los siguientes:
@@ -23,6 +29,8 @@ Los materiales utilizados son los siguientes:
 - Switch
 - Conectores DC Jack
 - Diodo tipo Schottky 1N5818
+- Pines para PCB
 
+### DETECCIÓN DE OBJETOS
 
-
+Para 
