@@ -21,4 +21,8 @@ Los materiales utilizados son los siguientes:
 - Condensador 1nF
 - Bateria de Li-Po 3.7V 3000mAh
 - Switch
-- 
+- Conectores DC Jack
+- Diodo tipo Schottky 1N5818
+
+
+
