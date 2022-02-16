@@ -34,5 +34,5 @@ Los materiales utilizados son los siguientes:
 ### DETECCIÓN DE OBJETOS
 
 Usaremos un repositorio que utiliza NVIDIA TensorRT para implementar eficientemente las redes neuronales en la plataforma de la Jetson Nano, mejorando el rendimiento y la eficiencia energética mediante optimizaciones de gráficos, fusión de kernel y precisión FP16/INT8.
-
+Este repositorio viene con una serie de redes pre-entrenadas, que se pueden cargar en la jetson nano, que se descargan cuando descargas el repositorio
 
