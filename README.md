@@ -12,7 +12,13 @@ Los materiales utilizados son los siguientes:
 - Cámara ArduCam 12MP IMX477
 - TECNOIOT LTC1871 DC DC Step Up Booster Converter
 - MOSFET IRFP9240
-- BD139
--  
-
-
+- Transistor BD139
+- Resitencia 10 Ohmios
+- Resistencia 2k2 Ohmios
+- Potenciometro 5k Ohmios
+- Resistencia 100k Ohmios
+- TL431
+- Condensador 1nF
+- Bateria de Li-Po 3.7V 3000mAh
+- Switch
+- 
