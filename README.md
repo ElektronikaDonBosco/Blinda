@@ -1,4 +1,4 @@
-# Proyecto-Blinda
+# BLINDA
 Es un proyecto que utiliza la inteligencia artificial para ayudar a las personas ciegas o con baja visión. El proyecto consiste en, con una cámara detectar el objeto que tienes delante y a través de un auricular o altavoz escuchar qué objeto se está detectando. Todo este proceso se realiza a través de inteligencia artificial.
 
 Cabe destacar que BLINDA de momento sólo está disponible en idioma inglés, pero se espera que en un futuro integre más idiomas.
