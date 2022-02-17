@@ -70,7 +70,7 @@ $ cmake ../
 #### Descarga de modelos
 El proyecto viene con muchas redes pre-entrenadas que puede descargar e instalar a través de la herramienta Model Downloader (download-models.sh). De forma predeterminada, no todos los modelos se seleccionan inicialmente para descargar para ahorrar espacio en disco. Puede seleccionar los modelos que desee o volver a ejecutar la herramienta más tarde para descargar más modelos en otro momento. Al ejecutar `cmake ../` se abrirá una ventana donde puede descargar todos los modelos necesarios:
 
-!(https://raw.githubusercontent.com/dusty-nv/jetson-inference/python/docs/images/download-models.jpg)
+![modelos](https://raw.githubusercontent.com/dusty-nv/jetson-inference/python/docs/images/download-models.jpg)
 
 
 
