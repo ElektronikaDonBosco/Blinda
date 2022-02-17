@@ -133,8 +133,9 @@ engine.runAndWait()
 
 ### BLINDA.PY
 Una vez que esté listo la detección de objetos y el speech, descarga el archivo [BLINDA.py](https://github.com/Mendix28/Proyecto-Blinda/blob/main/BLINDA.py) y lo ejecutas a través de la terminal:
-``python BLINDA.py``
 
+`python BLINDA.py`
 
+también puedes abrir el archivo con code-oss y ejecutarlo desde ahí pulsando la tecla F5
 
 
