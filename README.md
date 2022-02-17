@@ -7,7 +7,7 @@ En esta guía describiremos paso a paso todo lo que debes de hacer para poder re
 ### Tabla de contenido
 - Materiales
 - Detección de objetos
-- Speak
+- Speech
 - Fuente de alimentación
 - Puesta en marcha
 
@@ -100,6 +100,21 @@ Y podemos observar que el modelo estraá detectando los objetos que se captan a 
 
 ![detectnet1](https://i.ytimg.com/vi/GWPPe-nNntM/maxresdefault.jpg)
 ![detectnet2](https://raw.githubusercontent.com/dusty-nv/jetson-inference/dev/docs/images/detectnet-animals.jpg)
+
+
+
+### SPEECH
+En esta parte vamos a descargar y configurar el modelo de habla para la jetson nano.
+
+Se debe de instalar code-oss para ello os dejo un enlace donde explica de manera rapida y sencilla la instalación de code-oss:
+https://www.jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/
+
+Abrimos una terminal y descargamos el modelo usando el comando:
+
+`sudo apt-get install espeak`
+
+
+
 
 
 
