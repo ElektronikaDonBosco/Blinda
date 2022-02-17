@@ -138,4 +138,4 @@ Una vez que esté listo la detección de objetos y el speech, descarga el archiv
 
 también puedes abrir el archivo con code-oss y ejecutarlo desde ahí pulsando la tecla F5
 
-
+Al ejecutar el modelo, se reproducirá un saludo predetermiando de BLINDA, luego de eso empezará a detectar los objetos a través de la cámara y te dirá el objeto que está detectando a través de la salida de audio.
