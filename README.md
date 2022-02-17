@@ -146,3 +146,14 @@ Algo importante que queria conpartir es la fuente de alimentación, ya que blind
 La fuente consta de una bateria Litio de 3,7V y que es aumentada hasta 5V por el convertidor step-up DC-DC ya que toda la electronica trabaja con una tensiond de 5V. Podeís ver el [esquema de la fuente](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Esquema-Fuente-Alimentación.PNG) todo el coneccionado de los componentes.
 
 La fuente está preparada para cargar la bateria e incluso mantener toda la circuiteria funcionando mientras se carga la bateria. Podeis encontrara la [simulación hecha en proteus](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Fuente%20%de%20alimentación-Proteus.pdsprj) y tambien el [diseño de la PCB](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Diseño-PCB-Fuente-Alimentación.PNG) de la fuente.
+
+### PROTOTIPO
+Una vez teniendo a BLINDA funcionando en la jetson nano y aliementada por la fuente de alimentación, hemos pensado cómo hacer portable y comodo para llevar a BLINDA a cualquier parte. Esta parte es libre a la creatividad de cada uno, en nuestro caso hemos usado unas piezas hechas con impresión 3D para poder fijar toda la electronica y poder llevarla en un bolso de pecho. Una vez montado todo hemos obtenido éste resultado:
+
+![20220215_200420](https://user-images.githubusercontent.com/98735682/154549631-2f15215a-d93c-4199-af67-245c47804517.jpg)
+
+![20220215_200415](https://user-images.githubusercontent.com/98735682/154549701-b9019dea-740c-4b1d-a4b6-8df892a940b2.jpg)
+
+![20220216_202726](https://user-images.githubusercontent.com/98735682/154549554-ad77531a-e700-49c4-abc0-8210af0ae24b.jpg)
+
+![20220216_202733](https://user-images.githubusercontent.com/98735682/154549754-c57016e5-2c7e-429e-9c26-b10d92b39122.jpg)
