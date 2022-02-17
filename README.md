@@ -72,6 +72,10 @@ El proyecto viene con muchas redes pre-entrenadas que puede descargar e instalar
 
 ![modelos](https://raw.githubusercontent.com/dusty-nv/jetson-inference/python/docs/images/download-models.jpg)
 
+En el caso de BLINDA se ha dejado los modelos que vienen por defecto.
 
-
-en el caso de BLINDA se ha dejado los modelos que vienen por defecto.
+> Nota: Para volver a ejecutar la herramienta de descarga de modelos, puede usar los siguientes comandos:
+> ```
+> $ cd jetson-inference/tools
+> $ ./download-models.sh
+> ```
