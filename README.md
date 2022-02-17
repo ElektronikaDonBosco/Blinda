@@ -39,7 +39,7 @@ Este repositorio viene con una serie de redes pre-entrenadas, que se pueden carg
 Para ello hacemos uso de los siguientes comando:
 
 #### Clonar el repositorio
-Primero asegúrese de que git y cmake estén instalados:
+Primero asegúrese de que git y cmake estén instalados, para ello escriba en la terminal lo siguiente:
 ```
 $ sudo apt-get update
 $ sudo apt-get install git cmake
@@ -79,3 +79,21 @@ En el caso de BLINDA se ha dejado los modelos que vienen por defecto.
 > $ cd jetson-inference/tools
 > $ ./download-models.sh
 > ```
+
+#### Compilación
+```
+$ cd jetson-inference/build          # omitir si ya se encuentra en directorio build/
+$ make
+$ sudo make install
+$ sudo ldconfig
+```
+
+#### Prueba de detección
+Para realizar la detección, debe de estar instalada la cámara a la jetson nano e instalar sus respectivos drivers, luego de verificar que la Jetson nano reconoce su cámara ejecute los siguientes comandos dentro de la directorio /jetson-inference:
+
+```
+cd python/examples/
+./detectnet.py csi://0
+```
+
+
