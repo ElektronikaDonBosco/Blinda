@@ -118,7 +118,8 @@ Luego descargamos el archivo [espeak.py](https://github.com/Mendix28/Proyecto-Bl
 `python espeak.py`
 
 **IMPORTANTE: antes de ejecutar debe de conectar el dispositivo de audio**
-o tambien puedes copiar y pegar el codigo en code-oss:
+
+O tambien puedes copiar y pegar el codigo en code-oss:
 ```
 import os
 import pyttsx3
@@ -129,4 +130,11 @@ text='Hi!, I am BLINDA'
 engine.say(text)
 engine.runAndWait()
 ```
+
+### BLINDA.PY
+Una vez que esté listo la detección de objetos y el speech, descarga el archivo [BLINDA.py](https://github.com/Mendix28/Proyecto-Blinda/blob/main/BLINDA.py) y lo ejecutas a través de la terminal:
+``python BLINDA.py``
+
+
+
 
