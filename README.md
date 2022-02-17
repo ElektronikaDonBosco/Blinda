@@ -5,7 +5,7 @@ Cabe destacar que BLINDA de momento sólo está disponible en idioma inglés, pe
 
 En esta guía describiremos paso a paso todo lo que debes de hacer para poder recrear BLINDA.
 ### Tabla de contenido
-- [Materiales](MATERIALES)
+- Materiales
 - Detección de objetos
 - Speech
 - Fuente de alimentación
@@ -113,7 +113,11 @@ Abrimos una terminal y descargamos el modelo usando el comando:
 
 `sudo apt-get install espeak`
 
+Luego descargamos el archivo [espeak.py]() y a través de la terminal ejecutamos:
+`python espeak.py`
 
+o tambien puedes copiar y pegar el codigo en code-oss:
+```
 
 
 
