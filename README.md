@@ -38,7 +38,7 @@ Este repositorio viene con una serie de redes pre-entrenadas, que se pueden carg
 
 Para ello hacemos uso de los siguientes comando:
 
-```
+``
 $ sudo apt-get update
 $ sudo apt-get install git cmake libpython3-dev python3-numpy
 $ git clone --recursive https://github.com/dusty-nv/jetson-inference
@@ -49,5 +49,5 @@ $ cmake ../
 $ make -j$(nproc)
 $ sudo make install
 $ sudo ldconfig
-```
+``
 
