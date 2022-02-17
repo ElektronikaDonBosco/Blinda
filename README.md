@@ -139,3 +139,10 @@ Una vez que esté listo la detección de objetos y el speech, descarga el archiv
 también puedes abrir el archivo con code-oss y ejecutarlo desde ahí pulsando la tecla F5
 
 Al ejecutar el modelo, se reproducirá un saludo predetermiando de BLINDA, luego de eso empezará a detectar los objetos a través de la cámara y te dirá el objeto que está detectando a través de la salida de audio.
+
+### FUENTE DE ALIMENTACIÓN
+Algo importante que queria conpartir es la fuente de alimentación, ya que blinda debe ser compacto y portable se ha diseñado una fuente de alimentación que alimenta toda la electronica.
+
+La fuente consta de una bateria Litio de 3,7V y que es aumentada hasta 5V por el convertidor step-up DC-DC ya que toda la electronica trabaja con una tensiond de 5V. Podeís ver el [esquema de la fuente](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Esquema-Fuente-Alimentación.PNG) todo el coneccionado de los componentes.
+
+La fuente está preparada para cargar la bateria e incluso mantener toda la circuiteria funcionando mientras se carga la bateria. Podeis encontrara la [simulación hecha en proteus](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Fuente%20%de%20alimentación-Proteus.pdsprj) y tambien el [diseño de la PCB](https://github.com/Mendix28/Proyecto-Blinda/blob/main/Diseño-PCB-Fuente-Alimentación.PNG) de la fuente.
