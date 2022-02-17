@@ -96,4 +96,10 @@ cd python/examples/
 ./detectnet.py csi://0
 ```
 
+Y podemos observar que el modelo estraá detectando los objetos que se captan a través de la camara:
+
+![detectnet1](https://i.ytimg.com/vi/GWPPe-nNntM/maxresdefault.jpg)
+![detectnet2](https://raw.githubusercontent.com/dusty-nv/jetson-inference/dev/docs/images/detectnet-animals.jpg)
+
+
 
