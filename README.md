@@ -5,7 +5,7 @@ Cabe destacar que BLINDA de momento sólo está disponible en idioma inglés, pe
 
 En esta guía describiremos paso a paso todo lo que debes de hacer para poder recrear BLINDA.
 ### Tabla de contenido
-- ### Materiales
+- Materiales
 - Detección de objetos
 - Speech
 - Fuente de alimentación
