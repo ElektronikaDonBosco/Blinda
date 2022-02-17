@@ -113,7 +113,7 @@ Abrimos una terminal y descargamos el modelo usando el comando:
 
 `sudo apt-get install espeak`
 
-Luego descargamos el archivo [espeak.py]() y a través de la terminal ejecutamos:
+Luego descargamos el archivo [espeak.py](https://github.com/Mendix28/Proyecto-Blinda/blob/main/espeak.py) y a través de la terminal ejecutamos:
 `python espeak.py`
 
 o tambien puedes copiar y pegar el codigo en code-oss:
