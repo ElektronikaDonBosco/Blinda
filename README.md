@@ -38,5 +38,23 @@ Este repositorio viene con una serie de redes pre-entrenadas, que se pueden carg
 
 Para ello hacemos uso de los siguientes comando:
 
-#### -Clonar el repositorio
+#### - Clonar el repositorio
+Primero asegúrese de que git y cmake estén instalados:
+```
+$ sudo apt-get update
+$ sudo apt-get install git cmake
+```
+Una vez comprobado clonamos el repositorio:
+```
+$ git clone https://github.com/dusty-nv/jetson-inference
+$ cd jetson-inference
+$ git submodule update --init
+```
+#### - Paquete de desarrollo de python
+La funcionalidad de Python de este proyecto se implementa a través de módulos de extensión de Python que proporcionan enlaces al código nativo de C++ mediante la API de Python C. Mientras configura el proyecto, el repositorio busca versiones de Python que tengan paquetes de desarrollo instalados en el sistema y luego creará los enlaces para cada versión de Python que esté presente (por ejemplo, Python 2.7, 3.6 y 3.7). También creará enlaces numpy para las versiones de numpy que están instaladas.
+
+Estos paquetes de desarrollo son necesarios para que los enlaces se creen mediante la API de Python C.
+Entonces, si desea que el proyecto cree enlaces para Python 3.6, instale estos paquetes antes de continuar:
+`$ sudo apt-get install libpython3-dev python3-numpy`
+
 
