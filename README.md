@@ -58,4 +58,6 @@ Entonces, para que el proyecto cree enlaces para Python 3.6, instale estos paque
 
 `$ sudo apt-get install libpython3-dev python3-numpy`
 
+La instalación de estos paquetes adicionales permitirá que el repositorio cree los enlaces de extensión para Python 3.6, además de Python 2.7 (que ya está preinstalado). Luego, después del proceso de compilación, los paquetes jetson.inferencey jetson.utilsestarán disponibles para usar dentro de sus entornos de Python.
+
 
